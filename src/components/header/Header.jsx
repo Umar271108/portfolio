@@ -33,9 +33,6 @@ const Header = ({
 
                         <div className="btns-inner">
                             <button className="header-button">Let's talk</button>
-                            <button onClick={click} className={`btn + ${clicked}`}>
-                                    <div className={round}></div>
-                            </button>
                         </div>
 
                     </div>
