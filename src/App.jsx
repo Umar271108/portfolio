@@ -27,7 +27,7 @@ function App() {
     <>
         <Routes>
             <Route path='/' element={<Layout header={<Header theme={theme} click={click} round={round}/>}/>}>
-                <Route path='content' index element={<HeaderContent/>}/>
+                <Route path='/' index element={<HeaderContent/>}/>
                 <Route path='about' element={<About/>}/>
                 <Route path='news' element={<News/>}/>
             </Route>
