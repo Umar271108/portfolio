@@ -13,9 +13,8 @@ const About = () => {
                             <p className="tayler-text">Junoir frontentd developer.</p>
                         </div>
                         <div className="about-info-inner">
-                            <p className="text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius</p>
-                            <p className="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                dolore magna aliqua.</p>
+                            <p className="text-1">I'm junior frontend developer and web-designer, who can create both the design and the website for your work, company or vlog</p>
+                            <p className="text-2">I can work with technolgies like: HTML, CSS, JAVASCRIPT, REACT, FIGMA, Tailwind. Which are the most famous and useful technologies in my sphere</p>
 
                             <ul className="about-info-list">
                                 <li className="about-info-list-item">
