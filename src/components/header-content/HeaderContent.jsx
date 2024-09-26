@@ -23,7 +23,7 @@ const HeaderContent = () => {
 
                         <div className="beginneng-nav">
                             <a href="" className="link-got_a_project">Got a project?</a>
-                            <a href="" className="link-lets_talk">Let's talk</a>
+                            <a href="https://www.instagram.com/mirum2827/" className="link-lets_talk">Let's talk</a>
                         </div>
                     </div>
 
