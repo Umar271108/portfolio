@@ -14,8 +14,8 @@ const News = () => {
                         <Card img={image} type={'HTML CSS SLICK JS'} website={'Xiaomi Himo C26'}
                         href={'https://xiaomi-bike-c26.vercel.app/'}/>
 
-                        <Card img={image} type={'HTML CSS SLICK JS'} website={'Xiaomi Himo C26'}
-                        href={'https://xiaomi-bike-c26.vercel.app/'} reverse={'reverse'}/>
+                        <Card img={image} type={'HTML CSS SLICK JS'} website={'Tennis Court'}
+                        href={'https://tennis-app-five.vercel.app/'} reverse={'reverse'}/>
                     </div>
                 </div>
             </section>
