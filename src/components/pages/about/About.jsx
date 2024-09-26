@@ -13,8 +13,7 @@ const About = () => {
                             <p className="tayler-text">Junoir frontentd developer.</p>
                         </div>
                         <div className="about-info-inner">
-                            <p className="text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore</p>
+                            <p className="text-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius</p>
                             <p className="text-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                                 dolore magna aliqua.</p>
 
